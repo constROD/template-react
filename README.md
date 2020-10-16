@@ -1,4 +1,4 @@
-# Custom Template React
+# Custom Template React JavaScript
 
 ## Installation:
 
