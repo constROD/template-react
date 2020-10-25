@@ -1,5 +1,5 @@
 import React from "react";
-import { Button } from "shared/elements/button/Button";
+import { Button } from "shared/elements";
 import { styled } from "shared/theme";
 
 const Home = () => {
